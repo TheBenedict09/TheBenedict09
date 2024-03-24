@@ -1,4 +1,4 @@
-![logo](https://github.com/TheBenedict09/TheBenedict09/blob/main/Github_Banner.gif)
+![logo](https://github.com/TheBenedict09/TheBenedict09/blob/main/GB.gif)
 <h1 align="center">Hi, I'm Ayush Benedict Singh</h1>
 <h3 align="center">Fueled by a passion for innovation, my strong problem-solving abilities and effective communication skills drive me to create impactful solutions for real-world challenges.</h3>
 
